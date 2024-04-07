@@ -1,0 +1,12 @@
+.husky
+.vscode
+coverage
+dist
+build
+documentation
+node_modules
+public
+.idea
+.eslintrc.js
+jest.config.js
+migrations/
